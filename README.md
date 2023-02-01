@@ -10,4 +10,4 @@
  - LINK : https://ahmedheikall.github.io/Omnifood-website-with-HTML-CSS/
  
  # FULL IMAGE
- <img src="img/Omnifood — Never cook again!.jpg">
+ <img src="img/Omnifood — Never cook again! - Shortcut.lnk">
